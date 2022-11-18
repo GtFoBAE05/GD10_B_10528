@@ -1,0 +1,18 @@
+CRITICAL - 2022-11-09 20:11:12 --> Class "App\Controllers\Modelmahasiswa" not found
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Mahasiswa->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-09 20:24:46 --> Class "App\Controllers\Modelmahasiswa" not found
+in APPPATH\Controllers\Mahasiswa.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Mahasiswa->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-09 20:34:16 --> Class "App\Controllers\Modelmahasiswa" not found
+in APPPATH\Controllers\Mahasiswa.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Mahasiswa->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
